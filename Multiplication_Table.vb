@@ -64,6 +64,7 @@ Module Multiplication_Table
                     Console.Clear()
 
                     Console.WriteLine("remember, only numbers 1 through 12")
+
                 End Try
 
             Loop Until xData = True
